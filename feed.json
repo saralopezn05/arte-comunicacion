@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://saralopezn05.github.io/arte-comunicacion",
+    "feed_url": "https://saralopezn05.github.io/arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sara López Neme"
+    },
+    "items": [
+        {
+            "id": "https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",
+            "url": "https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",
+            "title": "Mi composición visual en inkscape",
+            "summary": "Esta es mi composición visual hecha en inkscape....",
+            "content_html": "<p>Esta es mi composición visual hecha en inkscape....</p>\n<p> </p>",
+            "author": {
+                "name": "Sara López Neme"
+            },
+            "tags": [
+                   "Composición Visual"
+            ],
+            "date_published": "2026-02-14T22:36:10-05:00",
+            "date_modified": "2026-02-15T14:23:44-05:00"
+        }
+    ]
+}

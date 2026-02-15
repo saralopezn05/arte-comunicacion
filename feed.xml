@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y comunicación</title>
+    <link href="https://saralopezn05.github.io/arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://saralopezn05.github.io/arte-comunicacion" />
+    <updated>2026-02-15T14:23:44-05:00</updated>
+    <author>
+        <name>Sara López Neme</name>
+    </author>
+    <id>https://saralopezn05.github.io/arte-comunicacion</id>
+
+    <entry>
+        <title>Mi composición visual en inkscape</title>
+        <author>
+            <name>Sara López Neme</name>
+        </author>
+        <link href="https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html"/>
+        <id>https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html</id>
+            <category term="Composición Visual"/>
+
+        <updated>2026-02-14T22:36:10-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Esta es mi composición visual hecha en inkscape....
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Esta es mi composición visual hecha en inkscape....</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
