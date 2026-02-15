@@ -3,14 +3,14 @@
     <title>Arte y comunicación</title>
     <link href="https://saralopezn05.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://saralopezn05.github.io/arte-comunicacion" />
-    <updated>2026-02-15T15:26:20-05:00</updated>
+    <updated>2026-02-15T15:28:42-05:00</updated>
     <author>
         <name>Sara López Neme</name>
     </author>
     <id>https://saralopezn05.github.io/arte-comunicacion</id>
 
     <entry>
-        <title>Otra composicio visual</title>
+        <title>Otra composición visual</title>
         <author>
             <name>Sara López Neme</name>
         </author>
@@ -30,7 +30,7 @@
             <![CDATA[
                     <p><img src="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/IMG_6218.JPG" class="type:primaryImage" alt="" /></p>
                 <p>Me diverti tanto que hice otra</p>
-<figure class="post__image"><img loading="lazy"  src="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/PORTADA.jpg" alt="" width="877" height="621" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/responsive/PORTADA-xs.jpg 300w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/3/responsive/PORTADA-sm.jpg 480w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/3/responsive/PORTADA-md.jpg 768w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/3/responsive/PORTADA-lg.jpg 1024w"></figure>
+<p> </p>
             ]]>
         </content>
     </entry>

@@ -12,9 +12,9 @@
         {
             "id": "https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html",
             "url": "https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html",
-            "title": "Otra composicio visual",
+            "title": "Otra composición visual",
             "summary": "Me diverti tanto que hice otra",
-            "content_html": "<p>Me diverti tanto que hice otra</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://saralopezn05.github.io/arte-comunicacion/media/posts/3/PORTADA.jpg\" alt=\"\" width=\"877\" height=\"621\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://saralopezn05.github.io/arte-comunicacion/media/posts/3/responsive/PORTADA-xs.jpg 300w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/3/responsive/PORTADA-sm.jpg 480w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/3/responsive/PORTADA-md.jpg 768w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/3/responsive/PORTADA-lg.jpg 1024w\"></figure>",
+            "content_html": "<p>Me diverti tanto que hice otra</p>\n<p> </p>",
             "image": "https://saralopezn05.github.io/arte-comunicacion/media/posts/3/IMG_6218.JPG",
             "author": {
                 "name": "Sara López Neme"
@@ -23,7 +23,7 @@
                    "Composición Visual"
             ],
             "date_published": "2026-02-15T15:26:20-05:00",
-            "date_modified": "2026-02-15T15:26:20-05:00"
+            "date_modified": "2026-02-15T15:28:42-05:00"
         },
         {
             "id": "https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",
