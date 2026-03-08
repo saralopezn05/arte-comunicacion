@@ -3,7 +3,7 @@
     <title>Arte y comunicación</title>
     <link href="https://saralopezn05.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://saralopezn05.github.io/arte-comunicacion" />
-    <updated>2026-03-07T19:50:25-05:00</updated>
+    <updated>2026-03-07T19:58:41-05:00</updated>
     <author>
         <name>Sara López Neme</name>
     </author>
@@ -16,23 +16,11 @@
         </author>
         <link href="https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html"/>
         <id>https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html</id>
-        <media:content url="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/IMG_6218.JPG" medium="image" />
             <category term="Composición Visual"/>
 
         <updated>2026-02-15T15:26:20-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/IMG_6218.JPG" alt="" />
-                    Me diverti tanto que hice otra
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/IMG_6218.JPG" class="type:primaryImage" alt="" /></p>
-                <p>Me diverti tanto que hice otra</p>
-<p> </p>
-            ]]>
-        </content>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
         <title>Mi composición visual en inkscape</title>
@@ -41,16 +29,19 @@
         </author>
         <link href="https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html"/>
         <id>https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html</id>
+        <media:content url="https://saralopezn05.github.io/arte-comunicacion/media/posts/2/_.jpeg" medium="image" />
             <category term="Composición Visual"/>
 
         <updated>2026-02-14T22:36:10-05:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://saralopezn05.github.io/arte-comunicacion/media/posts/2/_.jpeg" alt="" />
                     Esta es mi composición visual hecha en inkscape: Giros en el Barranco&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://saralopezn05.github.io/arte-comunicacion/media/posts/2/_.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Esta es mi composición visual hecha en inkscape: <strong>Giros en el Barranco </strong></p>
 <p>Construí mi imagen a partir de la idea de que muchas veces el vacío que te puede generar la incertidumbre de no saber bien que te espera después de un salto o caída, no siempre tiene que ser malo. Hay una mezcla de sensaciones que te pueden generar sentimientos poco amables, sin embargo lo que puedes encontrar es tan bello como aterrador, por eso no hay una forma definida, fluye dependiendo de lo que tu cabeza te quiera mostrar. Esa duda te brinda un paisaje de posibilidades y eso mejor que no tener ninguna, por eso para mí, me recuerda a un atardecer. </p>
 <figure class="post__image"><img loading="lazy"  src="https://saralopezn05.github.io/arte-comunicacion/media/posts/2/fluidesobrelborde.png" alt="" width="1080" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://saralopezn05.github.io/arte-comunicacion/media/posts/2/responsive/fluidesobrelborde-xs.png 300w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/2/responsive/fluidesobrelborde-sm.png 480w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/2/responsive/fluidesobrelborde-md.png 768w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/2/responsive/fluidesobrelborde-lg.png 1024w"></figure>

@@ -13,9 +13,6 @@
             "id": "https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html",
             "url": "https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html",
             "title": "Otra composición visual",
-            "summary": "Me diverti tanto que hice otra",
-            "content_html": "<p>Me diverti tanto que hice otra</p>\n<p> </p>",
-            "image": "https://saralopezn05.github.io/arte-comunicacion/media/posts/3/IMG_6218.JPG",
             "author": {
                 "name": "Sara López Neme"
             },
@@ -23,7 +20,7 @@
                    "Composición Visual"
             ],
             "date_published": "2026-02-15T15:26:20-05:00",
-            "date_modified": "2026-02-15T15:28:42-05:00"
+            "date_modified": "2026-03-07T19:58:12-05:00"
         },
         {
             "id": "https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",
@@ -31,6 +28,7 @@
             "title": "Mi composición visual en inkscape",
             "summary": "Esta es mi composición visual hecha en inkscape: Giros en el Barranco&hellip;",
             "content_html": "<p>Esta es mi composición visual hecha en inkscape: <strong>Giros en el Barranco </strong></p>\n<p>Construí mi imagen a partir de la idea de que muchas veces el vacío que te puede generar la incertidumbre de no saber bien que te espera después de un salto o caída, no siempre tiene que ser malo. Hay una mezcla de sensaciones que te pueden generar sentimientos poco amables, sin embargo lo que puedes encontrar es tan bello como aterrador, por eso no hay una forma definida, fluye dependiendo de lo que tu cabeza te quiera mostrar. Esa duda te brinda un paisaje de posibilidades y eso mejor que no tener ninguna, por eso para mí, me recuerda a un atardecer. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://saralopezn05.github.io/arte-comunicacion/media/posts/2/fluidesobrelborde.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://saralopezn05.github.io/arte-comunicacion/media/posts/2/responsive/fluidesobrelborde-xs.png 300w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/2/responsive/fluidesobrelborde-sm.png 480w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/2/responsive/fluidesobrelborde-md.png 768w ,https://saralopezn05.github.io/arte-comunicacion/media/posts/2/responsive/fluidesobrelborde-lg.png 1024w\"></figure>",
+            "image": "https://saralopezn05.github.io/arte-comunicacion/media/posts/2/_.jpeg",
             "author": {
                 "name": "Sara López Neme"
             },
@@ -38,7 +36,7 @@
                    "Composición Visual"
             ],
             "date_published": "2026-02-14T22:36:10-05:00",
-            "date_modified": "2026-03-07T19:50:25-05:00"
+            "date_modified": "2026-03-07T19:58:41-05:00"
         }
     ]
 }
