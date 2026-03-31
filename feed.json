@@ -12,7 +12,10 @@
         {
             "id": "https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html",
             "url": "https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html",
-            "title": "Otra composición visual",
+            "title": "Otra composición sonora",
+            "summary": "Esta es mi experimentación técnica en donde busco explorar el programa ABLETON&hellip;",
+            "content_html": "<p>Esta es mi experimentación técnica en donde busco explorar el programa ABLETON LIVE y diferentes herramientas para crear la obra:</p>\n<p><audio loading=\"lazy\" controls=\"controls\" src=\"https://saralopezn05.github.io/arte-comunicacion/media/posts/3/noviahermosafinal.mp3\"></audio></p>",
+            "image": "https://saralopezn05.github.io/arte-comunicacion/media/posts/3/_-1.jpeg",
             "author": {
                 "name": "Sara López Neme"
             },
@@ -20,7 +23,7 @@
                    "Composición Visual"
             ],
             "date_published": "2026-02-15T15:26:20-05:00",
-            "date_modified": "2026-03-07T20:12:24-05:00"
+            "date_modified": "2026-03-30T23:23:24-05:00"
         },
         {
             "id": "https://saralopezn05.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",

@@ -3,24 +3,36 @@
     <title>Arte y comunicación</title>
     <link href="https://saralopezn05.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://saralopezn05.github.io/arte-comunicacion" />
-    <updated>2026-03-07T22:47:52-05:00</updated>
+    <updated>2026-03-30T23:23:24-05:00</updated>
     <author>
         <name>Sara López Neme</name>
     </author>
     <id>https://saralopezn05.github.io/arte-comunicacion</id>
 
     <entry>
-        <title>Otra composición visual</title>
+        <title>Otra composición sonora</title>
         <author>
             <name>Sara López Neme</name>
         </author>
         <link href="https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html"/>
         <id>https://saralopezn05.github.io/arte-comunicacion/otra-composicio-visual.html</id>
+        <media:content url="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/_-1.jpeg" medium="image" />
             <category term="Composición Visual"/>
 
         <updated>2026-02-15T15:26:20-05:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/_-1.jpeg" alt="" />
+                    Esta es mi experimentación técnica en donde busco explorar el programa ABLETON&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/_-1.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Esta es mi experimentación técnica en donde busco explorar el programa ABLETON LIVE y diferentes herramientas para crear la obra:</p>
+<p><audio loading="lazy" controls="controls" src="https://saralopezn05.github.io/arte-comunicacion/media/posts/3/noviahermosafinal.mp3"></audio></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Mi composición visual en inkscape</title>
